@@ -1,0 +1,86 @@
+## IDEs
+**/.vscode/
+
+## Ambientes Virtuais
+*.venv
+*.env
+env
+.venv/
+.env/
+env/
+.python-version
+**/.env-prd*
+**/.env-hml*
+**/.env-dev*
+
+## Python
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+pyvenv.cfg
+pip-selfcheck.json
+__pypackages__/
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.manifest
+*.spec
+
+## Testes
+/coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+## Distribuição / Empacotamento
+dist/
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+staticfiles/
+
+## Logs
+*.log*
+**/logs
+pip-log.txt
+pip-delete-this-directory.txt
+script_*.txt
+
+## Internacionalização / Traduções
+*.mo
+*.pot
+
+## Diversos
+.DS_Store
+.cache/
+*.bak
+*.bak/
